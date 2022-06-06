@@ -1,8 +1,12 @@
 # example01
 
-A new Flutter project.
+Flutter 기초
 
-## Getting Started
+## 정리
+
+위젯의 2가지 유형
+- stateless : 위젯을 작성한 후 변경할 필요가 없는 경우
+- stateful : 내용 혹은 상태를 변경해야 할 경우
 
 Widget
 - MaterialApp
