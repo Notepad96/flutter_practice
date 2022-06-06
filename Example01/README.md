@@ -1,16 +1,22 @@
 # example01
 
-A new Flutter project.
+Flutter 기초
 
-## Getting Started
+## 정리
 
-This project is a starting point for a Flutter application.
+위젯의 2가지 유형
+- stateless : 위젯을 작성한 후 변경할 필요가 없는 경우
+- stateful : 내용 혹은 상태를 변경해야 할 경우
 
-A few resources to get you started if this is your first Flutter project:
+Widget
+- MaterialApp
+- Scaffold
+- Text
+- Center
+- Column
+- TextButton: 텍스트만 표시 , ElevatedButton: 백그라운드 컬러 채움, OutlinedButton: 테두리 있는 버튼
+- Image
+- Padding
+- AlertDialog (+ Builder, Context)
+- SingleChildScrollView
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
